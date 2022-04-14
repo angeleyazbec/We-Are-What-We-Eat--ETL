@@ -1,4 +1,6 @@
-# GT_Project-2
+# We Are What We Eat
+
+(original GItHub with commit history from group members: https://github.com/MeinaBian/GT_Project-2)
 
 <h1>Nutritional Database Organized by Recipe</h1> <br>
 <ul>
